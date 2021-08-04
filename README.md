@@ -1,9 +1,3 @@
 # ETark
 
 
-### Installation process
-Run the following commands <br/>
-1. `git clone <REPO_URL>`
-2. `npm install`
-3. Add `.env` file with credentials (Ask your mentor for further details)
-4. `npm start`
