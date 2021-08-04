@@ -1,6 +1,5 @@
-# gtok_web_2
+# ETark
 
-This repository is about Lets gtok page
 
 ### Installation process
 Run the following commands <br/>
